@@ -25,7 +25,7 @@ hobbies: ["Gaming", "Hiking", "Movies", "Philosophy", "History"]
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eon4&show_icons=true&theme=tokyonight)
 
-<h2> 🚀 &nbsp;Skills</h2>
+<h2> 🖥️ &nbsp;Skills</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="react" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="react" width="45" height="45"/>
