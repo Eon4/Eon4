@@ -1,6 +1,6 @@
 <h2 align="center"> Hello </h2>
 
-<h3 align="center">Lets collaborate and work together!</h3>
+<h3 align="center">Lets collaborate!</h3>
 
 ```yaml
 username: Eon4
