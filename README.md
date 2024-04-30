@@ -25,7 +25,9 @@ hobbies: ["Gaming", "Hiking", "Movies", "Philosophy", "History"]
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eon4&show_icons=true&theme=tokyonight)
 
-<h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25" /> Skills</h2>
+<h2> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="Robot" width="25" height="25" /> Skills</h2>
+
+
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="react" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="react" width="45" height="45"/>
